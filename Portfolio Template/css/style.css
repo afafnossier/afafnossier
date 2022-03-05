@@ -1,0 +1,306 @@
+*{
+    margin: 0px;
+    padding: 0px;}
+body{
+    background-color: rgb(231, 226, 226);
+}
+.header{
+    width: 270px;
+    display: block;
+    background-color: white;
+    margin-left: 30px;
+    height: 650px;
+    position: fixed;
+}
+    
+.header img{
+    width: 110px;
+    height: 110px;
+    margin: 20px 20px;
+}
+.header h4,p{
+    font-size: 17px;
+    font-family:  system-ui;
+    margin: 18px  20px;
+     
+}
+.header span{
+    color: rgb(170, 165, 165);
+}
+.link span{
+    color:  #03af9e;
+}
+.link p:hover{
+    background-color: rgb(211, 209, 209);
+}
+.header p i{
+   padding-right: 12px;
+}
+.alaa{
+    display:block;
+    margin-left: 15px;
+}
+.alaa ul {
+      list-style: none;
+      display: flex;
+ 
+}
+.alaa ul li a {
+     margin-left: 4px; 
+      color: black;
+}
+.alaa ul li a :hover{
+    color: rgb(187, 186, 186);
+}
+.afaf{
+    margin-left: 315px;
+    padding-top: 20px;
+}
+ 
+.afaf h2{
+    margin-bottom: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.afaf button{
+    padding: 9px 13px;
+    background-color: white;
+    border: none;
+    margin-bottom: 15px;
+}
+.afaf label button:hover{
+    background-color: rgb(206, 205, 205);
+}
+.po hr{
+    border-bottom: solid 4px rgb(190, 186, 186) ;
+    width: 95%;
+}
+ .oady{
+     margin-top: 15px;
+ }
+.oady img {
+    width: 320px;
+    height: 200px;
+   
+}
+.oady .a1:hover {
+    transform: rotate(-10deg);
+    transition: 1s all;
+}
+.oady .a2 :hover {
+    transform: rotate(-10deg);
+    transition: 1s all;
+}
+.oady .a3 :hover {
+    transform: rotate(-10deg);
+    transition: 1s all;
+}
+.oady .a4 :hover {
+    transform: rotate(-10deg);
+    transition: 1s all;
+}
+.oady .a5 :hover {
+    transform: rotate(-10deg);
+    transition: 1s all;
+}
+.oady .a6 :hover {
+    transform: rotate(-10deg);
+    transition: 1s all;
+}
+ .oady p{
+     background-color: white;
+     width:320px;
+     height: 80px;  
+     margin:0px  2px;
+     font-size: 16px;
+     padding: 16px 0px;
+ }
+ .oady .a2 {
+    position: absolute;
+    top: 150px;
+    right: 380px;  
+ }
+ .oady .a3{
+    position: absolute;
+    top: 150px;
+    right: 50px; 
+ }
+ .oady .a4{
+    position: absolute;
+    top: 480px;
+    right: 710px; 
+ }
+ .oady .a5{
+    position: absolute;
+    top: 480px;
+    right: 380px; 
+ }
+ .oady .a6{
+    position: absolute;
+    top: 480px;
+    right: 50px; 
+ }
+ .nossier{
+     display: block;
+ }
+ .nossier ul{
+    position: absolute;
+    top : 830px;
+    left: 700px;
+   
+    display: block;
+ }
+.nossier ul a{
+    margin-right: 20px; 
+     padding:5px 9px;
+  
+}
+.nossier ul a:hover{
+    background-color: black;
+    color: white;
+}
+.sho img{
+    width: 480px;
+    height: 300px;
+    margin: 5px;
+} 
+.sho img:hover{
+    opacity: 0.6;
+} 
+.she {
+    position: absolute;
+    top:1230px;
+    margin-left: 10px;
+}
+.she p{
+    font-size: 15px;
+    margin-left: 1px;
+}
+.she h6{
+    font-size: 17px;
+}
+.she label input{
+    width: 95%;
+    height: 30px;
+    background-color: rgb(112, 110, 110);
+    border: none;
+    color:  white;
+    text-align: center;
+    font-size: 17px; 
+}
+.she label input:hover{
+    background-color: #03af9e;
+    
+}
+.she button{
+    background-color:rgb(112, 110, 110);
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-top: 20px;
+    color: white;
+}
+.she button:hover{
+    background-color: #03af9e;   
+}
+.xx{
+    position: absolute;
+    top:1700px ;
+    display:block;
+}
+.xx .x ,.y ,.z{
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+.xx .o ,.n ,.b{
+    background-color: black;
+    padding: 30px 25px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+
+.la p{
+    background-color:white;
+    color: black;
+    text-align: center;
+} 
+.la:hover{
+    background-color:rgb(236, 234, 234);
+}
+.y{
+    position: absolute;
+    top: 58px;
+    left: 320px;
+}
+.z{
+    position: absolute;
+    top: 58px;
+    left: 640px;
+}
+.xx button{
+    background-color: #03af9e;
+     margin: 20px 90px;
+    padding: 10px 29px ;
+    color: white;
+    text-align: center;
+   
+}
+ .xx .b:hover ,.n:hover ,.o:hover ,button:hover{
+     opacity: 0.7;
+ }
+.ahmed{
+    position: absolute;
+    top: 2260px;
+    left: 320px;
+    background-color: #54bdb2;
+    width: 960px;
+}
+.ahmed label {
+   display: block;
+   margin-left: 15px;
+}
+.ahmed label input{
+    width: 820px;
+    height: 30px;
+    margin: 20px;
+  
+}
+.ahmed button{
+    margin-left: 99px;
+    margin-bottom: 25px;
+    padding: 10px 20px;
+    background-color: white;
+    color: #30b4a7;
+    font-size: 16px;
+    border: none;
+}
+ .saher{
+     width: 70.5%;
+     height: 200px;
+     background-color: rgb(255, 254, 254);
+     position: absolute;
+     top: 2650px;
+     margin-left:23.8%;
+
+ }
+.saher ul{
+    list-style: none;
+    display: flex;
+    margin: 50px 340px;
+}
+.saher ul li a {
+    margin-left: 18px; 
+     color:#03af9e;
+     font-size: 25px;
+}
+.saher ul li a:hover{
+    color: rgb(0, 0, 0);
+}
+.saher h4{
+    color:#03af9e;
+    font-size: 25px;
+    text-align: center;
+    font-style: italic;
+}
