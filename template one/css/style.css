@@ -1,0 +1,570 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+  display:block ;
+}
+.header ul {
+    list-style: none;
+    text-align: center;
+    display: flex;
+    background-color: black;
+    height: 30px;
+ 
+}
+.header ul li {
+    margin-right: 20px;
+}
+
+.header ul li a{
+      color: white;
+      margin-top: 6px;
+}
+.header ul li a i{
+    font-size:  16px;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.header li:hover{
+    width: 38px;
+    height: 30px;
+    background-color: rgb(184, 181, 181);
+    color: black;
+
+ }
+.afaf .af h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: Fantasy;
+    letter-spacing: 3px;
+    margin-top: 75px;
+   
+    font-size: 30px;
+}
+.afaf .af p{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.afaf .af span{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding: 3px;
+} 
+.al img{
+    height: 600px;
+    width: 100%;
+     
+}
+.control{
+    background-color: rgb(226, 223, 223);
+    height: 2740px;
+
+ 
+}
+.co{
+    width: 63%;
+    height: 1000px;
+}
+.control .co{
+    background-color: white;
+    margin: 25px;
+ 
+}
+.control .co .pp{
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 13px;
+    color: black;
+    margin-top: 25px;
+    line-height: 5px;
+ 
+}
+.control .co span{
+    color: gray;
+
+}   
+.control .co img{
+    width: 93%;
+    height: 500px;
+    margin-left: 3%;
+    margin-top: 20px;
+
+}
+.control .co .aa{
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    margin: 25px 20px;
+}
+.control .co .aa span{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.a{
+    margin-left: 20px;
+    margin-top:10px;
+    padding: 10px 12px;
+    font-size: 10px;
+    
+}
+ .b{
+    padding: 7px 20px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    font-family :Sans-serif;
+
+ }   
+ .control .b span{
+        font-size: 20px;
+        background-color: white;
+        color: black;
+ }
+ .control .co .b{
+     position: relative;
+     left: 600px;
+ }
+button{
+    margin-bottom: 50px;
+}
+button:hover{
+    background-color:  grey;
+    border: none;
+    cursor: pointer;
+}
+.control .co .cc img{
+    width: 100px;
+    height: 100px;
+}
+.control .cc p{
+    position: relative;
+    left:250px ;
+    font-size: 15px;
+    bottom:80px;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.control .co .oo img{
+    position: relative;
+    left: 100%;
+    bottom: 1020px;
+    width: 430px;
+    height: 220px;
+ 
+}
+.control .co .oo .pp{
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 101.4%;
+    bottom: 1050px;
+    width: 430px;
+    height: 140px;
+}
+.control .co .oo .pp p{
+    font-size: 15px;
+    line-height: 21px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+.control .co .oo .pp h3{
+    margin-top:20px;
+    position: relative;
+    top:18px;
+    right: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+     
+}
+.control .co .ll .sho {
+    background-color: black;
+    position: relative;
+    left: 103%;
+    bottom: 1025px;
+    width: 430px;
+    height: 60px;
+    color: white;
+}
+.control .co .ll .sho h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 20px 14px;
+}
+.control .co .ll .she {
+    position: relative;
+    left: 103%;
+    bottom: 1025px;
+    width: 430px;
+    height: 310px;
+    background-color: white;
+    color: black;
+
+}
+.control .co .ll .she img{
+    width: 50px; 
+    height: 50px;
+
+}
+.sah h5 ,h6{
+    position: relative;
+    bottom: 50px;
+    left: 90px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(82, 82, 82);
+}
+.sah hr{
+    position:relative;
+    bottom: 40px;
+}
+.soh h5 ,h6{ 
+    position: relative;
+    bottom: 50px;
+    left: 90px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(82, 82, 82);    
+}
+.soh hr{
+    position:relative;
+    bottom: 40px;
+}
+.a-sah  h5 ,h6{ 
+    position: relative;
+    bottom: 50px;
+    left: 90px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(82, 82, 82);
+
+}
+.a-sah hr{
+    position:relative;
+    bottom: 40px;
+}
+.a-soh  h5 ,h6{ 
+    position: relative;
+    bottom: 50px;
+    left: 90px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(82, 82, 82);
+
+}
+.a-soh hr{
+    position:relative;
+    bottom: 40px;
+}
+.sah ,.a-soh,.a-sah ,.soh {
+    height: 75px;
+}
+.sah:hover ,.a-soh:hover,.a-sah:hover ,.soh:hover{
+    background-color: rgb(219, 215, 215);
+}
+.mm{
+    background-color: black;
+    position: relative;
+    left: 66.7%;
+    bottom: 200px;
+    width: 430px;
+    height: 60px;
+    color: white;
+}
+.mm{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 20px 14px;
+    height: 20px;
+    width:410px ;
+}
+.mm .text{
+    height: 200px;
+    width: 410px;
+    background-color: rgb(226, 221, 221);
+    border: 14px white solid;
+    margin-left: -13.5px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 16px;
+    text-align: center;
+    color: black;
+}
+.mm .text p{
+    position: relative;
+    top: 90px;
+}
+.so{
+    width: 63%;
+    height: 830px;
+    background-color: white;
+    margin: 25px;
+    position: relative;
+    bottom: 90px;
+}
+.control .so .pp{
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 12px;
+    color: black;
+    padding-top: 20px;
+}
+.control .so span{
+    color: gray;
+
+}   
+.control .so img{
+    width: 93%;
+    height: 500px;
+    margin-left: 3%;
+    margin-top: 20px;
+
+}
+.control .so .aa{
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    margin: 25px 20px;
+}
+.control .so .aa span{
+    color: black;
+    font-family: al Narrow', Arial, sans-serif;'Franklin Gothic Medium', 'Ari;
+
+}
+ 
+ .control .so .b{
+     position: relative;
+     left: 600px;
+ }
+.vo{
+    background-color: white;
+    padding-top: -5px;
+    margin-top: -25px;
+    height: 850px;
+}
+.mai{
+     background-color: black;
+    position: relative;
+    left: 103.5%;
+    bottom: 1600px;
+     width: 430px;
+     height: 55px;
+     color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mai h4{
+    font-family: monospace;
+    padding: 15px;
+    font-size: 19px;
+}
+.kk {
+    width: 430px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+}
+.kk button{
+    padding: 3px; 
+    width: 65px;
+    margin: auto;
+    text-align: center;
+    margin: 6px 1px;
+} 
+.kk button span{
+    background-color: black;
+    color: white;
+}
+.aya{
+    background-color: black;
+   position: relative;
+   left: 103.5%;
+   bottom: 1425px;
+    width: 430px;
+    height: 55px;
+    color: white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.aya h4{
+    font-family:  Arial, Helvetica, sans-serif;
+    padding: 15px;
+    font-size: 17px;
+}
+.aya .ay img{
+    width: 195px;
+    height: 120px;
+    margin: 0px;
+    border: 3px white solid;
+}
+.aya .ay{
+    border: 12px white solid ;
+}
+.ahmed{
+    background-color: black;
+   position: relative;
+   left: 103.5%;
+   bottom: 1110px;
+    width: 430px;
+    height: 55px;
+    color: white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ahmed h4{
+    font-family:  Arial, Helvetica, sans-serif;
+    padding: 15px;
+    font-size: 17px;
+}
+.moo {
+    display:block ;
+  }
+.moo ul {
+      list-style: none;
+      text-align: center;
+      display: flex;
+      background-color:white;
+      height: 40px;
+   
+  }
+.moo ul li {
+      margin-right: 10px;
+}
+.moo ul li a{  
+   margin-top: 6px;
+   color: black;
+}
+.moo ul li a i{
+      font-size:  20px;
+      margin-top: 10px;
+       margin-left: 5px;
+  }
+  .moo i:hover{
+   background-color: grey;
+   }
+.ah{
+    background-color: black;
+   position: relative;
+   left: 103.5%;
+   bottom: 1040px;
+    width: 430px;
+    height: 55px;
+    color: white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ah h4{
+    font-family:  Arial, Helvetica, sans-serif;
+    padding: 15px;
+    font-size: 17px;
+}
+.ah .no{
+    background-color: white;
+    color: black;
+    height: 190px;
+
+}
+.ah .no p{
+   padding-top: 15px;
+   padding-left: 10px;
+    font-size: 16px;
+    margin: auto;
+
+}
+form input{
+    height: 35px;
+    width: 390px;
+    margin: auto;
+    margin-left: 20px;
+  margin-top: 20px;
+} 
+.ah .no button{
+    height: 35px;
+    width: 390px;
+    margin-left: 20px;
+    background-color: rgba(255, 0, 0, 0.808);
+    border: none;
+    color: white;
+    margin-top: 15px;
+}
+.ah .no button:hover{
+    background-color: rgb(175, 172, 172);
+}
+.button{
+    background-color: rgb(99, 96, 96);
+    width: 100%;
+    height: 150px;
+}
+.button button{
+    background-color: black;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 13px 30px;
+    color: white;
+    font-size: 18px;
+   
+}
+.button button:hover{
+    background-color: rgb(177, 174, 174);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
