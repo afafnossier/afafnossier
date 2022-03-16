@@ -1,0 +1,281 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header img ,.get_started img{
+    width: 100%;
+    height: 530px;
+     opacity: 0.6;
+}
+.alaa ,.alla ,.meda{
+    display: block;
+}
+.header .alaa  ,.header .alla {
+position: absolute;
+top: 15px;
+right: 100px;
+}
+.alaa ul ,.alla ul ,.meda ul{
+    list-style: none;
+    display: flex;
+}
+.alaa ul li ,.alla ul li ,.meda ul li{
+    font-size: 18px;
+    margin-right: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(70, 68, 68);
+}
+.header .al ,.header .af {
+    position: absolute;
+    top: 15px;
+    left: 120px;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.header .al:hover ,.header .af:hover{
+    color: #bbcbdd;
+}
+.alaa ul li a:hover ,.alla ul li a:hover{
+  border: solid 2px rgb(247, 89, 32);
+  padding: 2px 6px;
+}
+.text{
+    position: absolute;
+    top: 150px;
+    left: 120px;
+}
+.text h5 ,.get_started h5 ,.Contact_Us1 h5 {
+    font-size: 34px;
+    font-family: arial black;
+ }
+.text p ,.get_started p ,.Contact_Us1 p{
+     margin-top: 20px;
+     font-size: 26px;
+ }
+  button{
+    padding:  12px 25px;
+     border-radius:23px;
+     margin-top: 20px;
+     color: white;
+     border: none;
+     font-size: 20px;
+     background-color:#ff4500;
+ 
+ }
+  button:hover{
+     background-color:aliceblue;
+     border: solid rgb(250, 105, 52) 2px;
+     color: #ff4500;
+     transition-duration: 0.5s;
+     transition-property:all;
+    
+     }
+ .edusite{
+     margin: 70px 70px;
+     color: rgb(68, 67, 67);
+ }
+ .edusite h5{
+     font-size: 30px; 
+ }
+ .edusite p{
+     font-size: 22px;
+     color: #6f757c;
+ }
+ .sience {
+     margin: 50px 50px;
+     
+ }
+ .sience i ,.Why_Edusite i{
+     font-size: 22px;
+     border-radius:50% 50%;
+     padding: 23px;
+     border: orangered solid 1px;
+     color: orangered;
+     float: left;
+     margin-right: 20px;
+ }
+ .sience  h6 ,.Explore_Courses h6 , .Why_Edusite h6{
+     color: rgb(61, 58, 58);
+     font-size: 22px;
+
+ }
+ .sience p ,.Explore_Courses p ,.Why_Edusite p{
+     color: #6f757c;
+     font-size: 20px;
+     margin-bottom: 40px;
+ }
+ .sience img {
+     width: 500px;
+     height: 450px;
+     position: absolute;
+     right: 80px;
+     top: 610px;
+ }
+ .Explore_Courses h6,.xx h6 {
+     text-align: center;
+     font-size: 32px;
+     margin-top: 100px;
+   
+ }
+ .Explore_Courses p,.xx p ,.video p{
+     text-align: center;
+     font-size: 25px;
+     margin-bottom: 20px;
+
+ }
+ 
+ .courses{
+     display: flex;
+      
+     flex-wrap: wrap;
+    justify-content:center;
+ }
+ .courses img{
+     width: 19vw;
+     height: 200px ;
+     margin-top: 40px;
+     border-radius: 10px;
+     margin-left: 30px;
+ }
+ .courses h5 {
+     font-size: 17px;
+     color: rgb(31, 30, 30);
+     margin-top: 15px;
+     margin-bottom: 25px;
+ }
+ .courses p{
+    text-align: left;
+    font-size: 20px;
+ }
+ .courses img:hover{
+    opacity: 0.4;
+    transition-duration: 0.5s;
+    transition-property:all
+ }
+ .courses hr{
+     width: 250px;
+     margin-bottom:10px ;
+ }
+ .Explore_Courses button {
+     
+    margin:70px 550px;
+ }
+ .get_started img ,.Contact_Us img{
+     width: 100%;
+     height:370px ;
+     opacity: o.3;
+ }
+ .get_started1 ,.Contact_Us1{
+    position: absolute;
+    top: 2240px;
+    left: 120px;
+     
+}
+.get_started1 h5 ,p ,.Contact_Us1 h5 ,p{
+    color: #033166;
+}
+ .Why_Edusite{
+     display: flex;
+ }
+ .Why_Edusite i{
+     margin: 20px;
+ }
+ .Why_Edusite div {
+     
+     margin:50px 60px;
+     justify-content: space-between;
+
+ }
+ .video{
+     margin-left: 100px;
+ }
+ .video h4{
+     color: rgb(32, 32, 32);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 25px;
+     margin: 120px 0px 20px 0px;
+ }
+ .video p{
+     text-align: left;
+     color: #51555a;
+ }
+ .video span{
+     font-size: 19px;
+     color: rgb(165, 157, 157);
+}
+.video iframe{
+    float: right;
+    position:absolute;
+    top: 3100px;
+    right: 90px;
+}
+.Contact_Us{
+    margin-top: 90px;
+}
+.Contact_Us1 {
+    position: absolute;
+    top: 3500px;
+}
+.Contact_Us1 h5 ,.Contact_Us1 p {
+  text-align: center;
+  color: black;
+  font-size: 37px;
+}
+.Contact_Us1 p{
+   font-size: 25px;
+   margin-left: 260px;
+}
+.Contact_Us1 button{
+     margin-left: 260px;
+}
+.header .alla {
+    position: absolute;
+    top: 3800px;
+    right: 100px;
+    margin: 90px 0px 60px 0px;
+}
+.header .af{
+    position: absolute;
+    top: 3800px;
+    left: 120px;
+    margin-top: 90px;
+    border: #ff4500 solid 1px;
+}
+ 
+.header .af:hover{
+    color: #ff4500;
+}
+.finish p{
+    font-size: 19px;
+    color: #868a8f;
+    position: absolute;
+    top: 4000px;
+    left: 100px;
+}
+.meda{
+    position: absolute;
+    top: 4000px;
+    right: 120px;
+    float: right;
+   
+}
+.meda ul li{
+    font-size: 38px;
+    margin-bottom: 70px;
+}
+  .meda ul li :hover{
+      opacity: 0.3;
+  }
+  .my_name p{
+      font-family: Brush Script MT, Brush Script Std, cursive; 
+      background-color :rgb(115, 243, 243);
+      color:  black;
+      font-size: 40px;
+      font-style: italic;
+      margin-top:130px ;
+      height: 100px;
+      text-align: center;
+      padding: 50px 0px 0px 0px;
+  }
+ 
